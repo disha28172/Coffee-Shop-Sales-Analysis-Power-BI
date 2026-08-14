@@ -35,6 +35,7 @@ An interactive Power BI dashboard created to analyze coffee shop sales performan
 ## Project Files
 - `Coffee_Shop_Sales.pbix` – Power BI dashboard
 - `dashboard.png` – Dashboard preview
+- - `Coffee sales` – CSV File
 
 ## Author
 Disha Singh
