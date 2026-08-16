@@ -21,7 +21,7 @@ An interactive Power BI dashboard created to analyze coffee shop sales performan
 - Power BI
 - Power Query
 - DAX
-- Excel / CSV
+- CSV
 
 ## Dashboard Features
 - Interactive date filter
